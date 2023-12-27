@@ -1,0 +1,11 @@
+{
+  "title": "Great - You have Successfully Generate Your Token",
+  "alert": "All the tokens smart contracts are fully ready for auditing and will pass any audits.",
+  "navbar.home": "Token Generator",
+  "navbar.docs": "Documentation",
+  "navbar.help": "Need Help?",
+  "generate-token": "Generate My Token",
+  "success-token": "Thank you! Your token was generated successfully, below you can see all the details.",
+  "token-name": "Token name",
+  "navbar.token-locker": "Token Locker"
+}
